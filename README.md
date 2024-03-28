@@ -16,8 +16,8 @@ Feel free to explore the projects, and I hope you find something that piques you
 
 # Projects 🛠️
 
-| S. No. | Project Name      | Description               |
-| ----- | ------------------| ------------------------- |
+| S. No. | Project Name                  | Description               |
+| -----  | ----------------------------- | ------------------------- |
 |  1  | Bouncing Ball                    | Watch as the ball bounces dynamically within the browser window. 
 |  2  | Cat Walking                      | Enjoy watching the playful feline move gracefully in your browser window.                            
 |  3  | Solar System Visualization       | Explore the wonders of our solar system with this interactive visualization
